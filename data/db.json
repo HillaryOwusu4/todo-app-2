@@ -1,0 +1,40 @@
+{
+  "blogs": [
+    {
+      "title": "Practise Piano",
+      "body": "why do we use it",
+      "duration": "1hr",
+      "id": 1
+    },
+    {
+      "title": "Do Laundry",
+      "duration": "no specific duration",
+      "body": "If you need to use a one-off height value that doesn’t make sense to include in your theme, use square brackets to generate a property on the fly using any arbitrary value.",
+      "id": 6
+    },
+    {
+      "title": "Read",
+      "duration": "3hr",
+      "body": "If you need to use a one-off height value that doesn’t make sense to include in your theme, use square brackets to generate a property on the fly using any arbitrary value.",
+      "id": 7
+    },
+    {
+      "title": "Reply to emails",
+      "duration": "no specific duration",
+      "body": "If you need to use a one-off height value that doesn’t make sense to include in your theme, use square brackets to generate a property on the fly using any arbitrary value.",
+      "id": 8
+    },
+    {
+      "title": "Wash dishes",
+      "duration": "1hr",
+      "body": "If you need to use a one-off height value that doesn’t make sense to include in your theme, use square brackets to generate a property on the fly using any arbitrary value.",
+      "id": 9
+    },
+    {
+      "title": "Learn about tailwind css",
+      "duration": "4hr",
+      "body": "If you need to use a one-off height value that doesn’t make sense to include in your theme, use square brackets to generate a property on the fly using any arbitrary value.",
+      "id": 10
+    }
+  ]
+}
